@@ -1,0 +1,14 @@
+<project>
+<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20210307</version>
+</dependency>
+
+
+        <sourceDirectory>public</sourceDirectory> <!-- Asegúrate de que este sea tu directorio de fuentes -->
+    </build>
+</project>
