@@ -2,5 +2,8 @@
     "java.project.referencedLibraries": [
         "/Users/mitzivite/Documents/School/6to Semester/Applied Programming/Project2/libs/json-simple-1.1.1.jar"
     ],
-    "java.project.sourcePaths": []
+    "java.project.sourcePaths": [
+        "./src/main/java"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
